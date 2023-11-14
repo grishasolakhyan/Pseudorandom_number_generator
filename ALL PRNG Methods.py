@@ -453,7 +453,7 @@ if(number_of_method<5):
     plt.plot(ind2, R, color='indigo')
     
     
-    plt.legend()
+    plt.legend(fontsize = "x-large")
     plt.show()
 elif(number_of_method==5):
     bank=100
